@@ -1,4 +1,4 @@
-Privacy Policy for Drag to Dislike Extension
+Privacy Policy for leetCode Review Extension
 
 Last updated: December 7, 2025
 
